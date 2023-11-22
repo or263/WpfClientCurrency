@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="5ba9a7a6-2e24-422c-b099-3fb0b0db175e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MyCurrencyService.wsdl" MetadataType="Wsdl" ID="cb03840a-e92f-4689-819f-d9463bc65857" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/?wsdl" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="240f479e-1228-47a7-a27a-a71408169a7a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/?disco" />
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="cbd5d338-2197-4a0f-8292-cf2dd7d6f280" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="2eb9e9d8-9657-4b1e-9c2f-4b9c58998aa7" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/?xsd=xsd2" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="5c46cb11-2396-42ba-bfb4-859b06c7b820" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/CurrencyService/MyCurrencyService/?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
